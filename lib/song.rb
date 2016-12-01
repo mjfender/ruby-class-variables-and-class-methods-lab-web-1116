@@ -44,12 +44,4 @@ class Song
     @@count += 1
   end
 
-  def name=(name, artist, genre)
-    @name = name
-    @artist = artist
-    @genre = genre
-  end
-
-
-
 end 
